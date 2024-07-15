@@ -1,6 +1,8 @@
 ### Hi there 👋
 
+<!--
 [![0xNafri's github stats](https://github-readme-stats.vercel.app/api?username=0xNafri&theme=blue-green)](https://github.com/0xNafri/github-readme-stats)
+-->
 
 * 👋Hi my name is Irfan Murad
 * 🛠️I'm a self-taught builder from Malaysia
