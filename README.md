@@ -6,7 +6,7 @@
 
 * 👋Hi my name is Irfan Murad
 * 🛠️I'm a self-taught builder from Malaysia
-* 🎨I'm currently focusing on Frontend with React.js
+* 👾I'm currently focusing on Backedn wit Express.js
 * ⚙️I'm also currently learning backend tech with Node.js & Go
 * 📧You can contact me on my [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irfanmurad/) 
 <!--
